@@ -17,3 +17,4 @@ Sample container setup for running NGINX server within container to act as simpl
 ## Additional online resources:
 
 - [NGINX Documentation](https://docs.nginx.com/nginx/admin-guide/web-server/serving-static-content/)
+- [Docker 101 Tutorial | Docker](https://www.docker.com/101-tutorial/)
